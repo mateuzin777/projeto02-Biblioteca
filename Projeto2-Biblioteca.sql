@@ -1,4 +1,4 @@
-SELECT * FROM Livros ORDER BY ano_publicacao DESC LIMIT 5;
+
 CREATE DATABASE Biblioteca;
 USE Biblioteca;
 
